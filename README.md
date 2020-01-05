@@ -14,7 +14,7 @@
 |2020.1  -        | [株式会社KADOKAWA Connected](https://kdx.co.jp/) (転籍につき職務内容は同じ，カドカワグループ全体を視野に入れた業務となる)|
 
 # 博士論文
-http://hdl.handle.net/10119/15787
+[本文](http://hdl.handle.net/10119/15787)
 ## タイトル
 
 |言語  |文面                                                                      |
