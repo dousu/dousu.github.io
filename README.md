@@ -16,7 +16,7 @@
 http://hdl.handle.net/10119/15787
 ## タイトル
 |言語|文面|
-| :------: | :-------- |
+| :---: | :--- |
 |英語|Interated Learning of the Music/Language Structure with Ambiguous Meaning|
 |日本語|意味の曖昧さを考慮した音楽・言語構造の繰り返し学習|
 # 対外発表
