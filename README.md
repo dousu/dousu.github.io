@@ -1,5 +1,4 @@
-# 名前
-dousu
+# dousu
 
 # SNS
 [twitter](https://twitter.com/dousu11)
@@ -8,7 +7,7 @@ dousu
 
 # 職歴
 |期間|所属 (職務内容)|
-|---|---|
+| --- | --- |
 |2018.4  - 2019.3 | [学振DC1](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17J11198/) (早期博士取得により1年分辞退)|
 |2019.4  - 2019.12| [株式会社ドワンゴ](https://dwango.co.jp/) (数値分析プラットフォーム開発・運用)|
 |2020.1  -        | [株式会社KADOKAWA Connected](https://kdx.co.jp/) (転籍につき職務内容は同じ，カドカワグループ全体を視野に入れた業務となる)|
@@ -17,7 +16,7 @@ dousu
 http://hdl.handle.net/10119/15787
 ## タイトル
 |言語|文面|
-|---|---|
+| --- | --- |
 |英語|Interated Learning of the Music/Language Structure with Ambiguous Meaning|
 |日本語|意味の曖昧さを考慮した音楽・言語構造の繰り返し学習|
 # 対外発表
