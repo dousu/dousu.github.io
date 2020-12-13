@@ -53,14 +53,16 @@
 2. 第7回富山ビジネスプランコンテスト，学生部門 最優秀賞, タイトル：“屋内位置測位システム（Indoor Positioning System, IPS）の販売とマップアプリの提供”, 2014
 3. 平成28年度優秀学生賞，電子情報通信学会北陸支部, 2017
 ```
-# 職務で扱った技術スタック
+# 職務で扱っている技術スタック
 - Ansible
 - NGINX
 - Kubernetes
+- Skaffold
 - Hadoop
 - Hive
 - Impala
 - Spark
+- Scala
 - YARN
 - Kerberos
 - LDAP
@@ -68,3 +70,25 @@
 - Docker
 - Zookeeper
 - Sentry
+- Jenkins
+- ElasticSearch
+- Terraform
+- Airflow
+- MySQL
+- Flake
+- Python
+- BigQuery
+- Cloud Dataflow
+- Apache Beam
+- Java
+- Cloud Pub/Sub
+- Cloud Storage
+- AI Platform
+- Cloud Dataprep
+- Cloud Function
+- Google データポータル
+- AWS Lambda
+- Amazon Redshift
+- Amazon EC2
+- Amazon S3
+- Amazon VPC
